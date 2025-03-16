@@ -1,0 +1,6 @@
+**/.vs/
+**/*txt.bak
+**/bin/
+**/obj/
+**/src/test/
+**/target/
